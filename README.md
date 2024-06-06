@@ -22,26 +22,26 @@ Shell is a user interface for access to an operating system's services. In gener
 |      12 | 📖 Bash Trap Command                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-bash-trap-command-153904)                              |
 |      13 | 📖 File System Operations in Shell                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-file-system-operations-in-shell-153905)                |
 |      14 | 📖 Mastering Shell Pipelines for Data Processing     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-mastering-shell-pipelines-for-data-processing-153906)  |
-|      15 | 📖 Chess Board in Terminal                           | ★★☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-chess-board-in-terminal-299820)                        |
-|      16 | 📖 Random Password Generator Development             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-random-password-generator-development-301485)          |
+|      15 | 📖 Chess Board in Terminal (Lab)                     | ★★☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-chess-board-in-terminal-lab-299820)                    |
+|      16 | 📖 Random Password Generator Development (Lab)       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-random-password-generator-development-lab-301485)      |
 |      17 | 📖 Command-Line File Downloading Tools               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-command-line-file-downloading-tools-37)                |
-|      18 | 📖 Network Data Packet Statistics                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-network-data-packet-statistics-301481)                 |
-|      19 | 📖 Collect Files From Specified Time                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-collect-files-from-specified-time-301463)              |
-|      20 | 📖 Get Program That Satisfies the Condition          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-get-program-that-satisfies-the-condition-301473)       |
-|      21 | 📖 Creating a Typing Game Using Bash                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-creating-a-typing-game-using-bash-298847)              |
-|      22 | 📖 Display Host Information                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-display-host-information-36)                           |
-|      23 | 📖 Extracting Information From Text                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-extracting-information-from-text-301469)               |
-|      24 | 📖 Customizing Linux File Listing                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-customizing-linux-file-listing-301467)                 |
-|      25 | 📖 Build a Linux System Monitor Using Bash           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-build-a-linux-system-monitor-using-bash-298845)        |
+|      18 | 📖 Network Data Packet Statistics (Lab)              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-network-data-packet-statistics-lab-301481)             |
+|      19 | 📖 Collect Files From Specified Time (Lab)           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-collect-files-from-specified-time-lab-301463)          |
+|      20 | 📖 Get Program That Satisfies the Condition (Lab)    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-get-program-that-satisfies-the-condition-lab-301473)   |
+|      21 | 📖 Creating a Typing Game Using Bash (Lab)           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-creating-a-typing-game-using-bash-lab-298847)          |
+|      22 | 📖 Discover Linux System Information                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-discover-linux-system-information-36)                  |
+|      23 | 📖 Extracting Information From Text (Lab)            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-extracting-information-from-text-lab-301469)           |
+|      24 | 📖 Customizing Linux File Listing (Lab)              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-customizing-linux-file-listing-lab-301467)             |
+|      25 | 📖 Build a Linux System Monitor Using Bash (Lab)     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-build-a-linux-system-monitor-using-bash-lab-298845)    |
 |      26 | 📖 Linux cd Command: Directory Changing              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-cd-command-directory-changing-209733)            |
 |      27 | 📖 Linux mkdir Command: Directory Creating           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-mkdir-command-directory-creating-209739)         |
-|      28 | 📖 Copy Large Files with Preserved Structure         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-copy-large-files-with-preserved-structure-301465)      |
+|      28 | 📖 Copy Large Files with Preserved Structure (Lab)   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-copy-large-files-with-preserved-structure-lab-301465)  |
 |      29 | 📖 Secure File Transfer Basics                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-secure-file-transfer-basics-40)                        |
-|      30 | 📖 Build a Task Scheduler Using Bash                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-build-a-task-scheduler-using-bash-298846)              |
+|      30 | 📖 Build a Task Scheduler Using Bash (Lab)           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-build-a-task-scheduler-using-bash-lab-298846)          |
 |      31 | 📖 File System and Disk Management                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-file-system-and-disk-management-17999)                 |
-|      32 | 📖 Linux Server Information Retrieval                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-server-information-retrieval-301475)             |
+|      32 | 📖 Linux Server Information Retrieval (Lab)          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-server-information-retrieval-lab-301475)         |
 |      33 | 📖 Linux Deploy LNMP                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-deploy-lnmp-7787)                                |
-|      34 | 📖 Extracting Link Information From Text             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-extracting-link-information-from-text-301471)          |
+|      34 | 📖 Extracting Link Information From Text (Lab)       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-extracting-link-information-from-text-lab-301471)      |
 |      35 | 📖 Git Config Management                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-git-config-management-8715)                              |
 |      36 | 📖 File and Disk Usage                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-file-and-disk-usage-38)                                |
 |      37 | 📖 Linux cp Command: File Copying                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-cp-command-file-copying-209744)                  |
@@ -60,12 +60,12 @@ Shell is a user interface for access to an operating system's services. In gener
 |      50 | 📖 Data Stream Redirection                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-data-stream-redirection-17995)                         |
 |      51 | 📖 Linux ls Command: Content Listing                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-ls-command-content-listing-219205)               |
 |      52 | 📖 Your First Linux Lab                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-your-first-linux-lab-270253)                           |
-|      53 | 📖 Initialize Git Project                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-initialize-git-project-1507)                           |
-|      54 | 📖 Find File Location                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-find-file-location-42)                                 |
+|      53 | 📖 Initialize Git Project (Lab)                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-initialize-git-project-lab-1507)                       |
+|      54 | 📖 Basic Linux File Operations                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-basic-linux-file-operations-42)                        |
 |      55 | 📖 Terminate Processes with kill, killall, and pkill | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-terminate-processes-with-kill-killall-and-pkill-44)    |
 |      56 | 📖 Linux Logical Commands and Redirection            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-logical-commands-and-redirection-48)             |
 |      57 | 📖 Introduction to Linux                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-introduction-to-linux-18001)                           |
-|      58 | 📖 Samba File Sharing on Linux                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-samba-file-sharing-on-linux-301491)                    |
+|      58 | 📖 Samba File Sharing on Linux (Lab)                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-samba-file-sharing-on-linux-lab-301491)                |
 |      59 | 📖 Command Execution Sequence Control and Pipeline   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-command-execution-sequence-control-and-pipeline-17994) |
 |      60 | 📖 User Account Management                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-user-account-management-49)                            |
 |      61 | 📖 Linux User Group and File Permissions             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-user-group-and-file-permissions-18002)           |
@@ -73,39 +73,39 @@ Shell is a user interface for access to an operating system's services. In gener
 
 ## More Free Tutorials
 
-- [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
-- [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
-- [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
-- [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
-- [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
-- [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
-- [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
-- [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
-- [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
-- [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
-- [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
-- [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
-- [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
-- [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
-- [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
-- [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
-- [OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
-- [Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
-- [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
-- [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
-- [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
-- [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
-- [Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
-- [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
-- [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
-- [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
-- [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+- [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+- [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- [Practice Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
+- [Practice Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
+- [Practice Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
+- [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- [Practice MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
+- [Practice Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- [Practice Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
+- [Practice OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
+- [Practice Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
+- [Practice Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- [Practice NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- [Practice scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- [Practice Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- [Practice Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
+- [Practice HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
+- [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
+- [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
+- [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- [Practice jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
 
 ## More

@@ -22,54 +22,40 @@ Shell is a user interface for access to an operating system's services. In gener
 |      12 | 📖 Bash Trap Command                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-bash-trap-command-153904)                              |
 |      13 | 📖 File System Operations in Shell                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-file-system-operations-in-shell-153905)                |
 |      14 | 📖 Mastering Shell Pipelines for Data Processing     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-mastering-shell-pipelines-for-data-processing-153906)  |
-|      15 | 📖 Chess Board in Terminal (Lab)                     | ★★☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-chess-board-in-terminal-lab-299820)                    |
-|      16 | 📖 Random Password Generator Development (Lab)       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-random-password-generator-development-lab-301485)      |
-|      17 | 📖 Command-Line File Downloading Tools               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-command-line-file-downloading-tools-37)                |
-|      18 | 📖 Network Data Packet Statistics (Lab)              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-network-data-packet-statistics-lab-301481)             |
-|      19 | 📖 Collect Files From Specified Time (Lab)           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-collect-files-from-specified-time-lab-301463)          |
-|      20 | 📖 Get Program That Satisfies the Condition (Lab)    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-get-program-that-satisfies-the-condition-lab-301473)   |
-|      21 | 📖 Creating a Typing Game Using Bash (Lab)           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-creating-a-typing-game-using-bash-lab-298847)          |
-|      22 | 📖 Discover Linux System Information                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-discover-linux-system-information-36)                  |
-|      23 | 📖 Extracting Information From Text (Lab)            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-extracting-information-from-text-lab-301469)           |
-|      24 | 📖 Customizing Linux File Listing (Lab)              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-customizing-linux-file-listing-lab-301467)             |
-|      25 | 📖 Build a Linux System Monitor Using Bash (Lab)     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-build-a-linux-system-monitor-using-bash-lab-298845)    |
-|      26 | 📖 Linux cd Command: Directory Changing              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-cd-command-directory-changing-209733)            |
-|      27 | 📖 Linux mkdir Command: Directory Creating           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-mkdir-command-directory-creating-209739)         |
-|      28 | 📖 Copy Large Files with Preserved Structure (Lab)   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-copy-large-files-with-preserved-structure-lab-301465)  |
-|      29 | 📖 Secure File Transfer Basics                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-secure-file-transfer-basics-40)                        |
-|      30 | 📖 Build a Task Scheduler Using Bash (Lab)           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-build-a-task-scheduler-using-bash-lab-298846)          |
-|      31 | 📖 File System and Disk Management                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-file-system-and-disk-management-17999)                 |
-|      32 | 📖 Linux Server Information Retrieval (Lab)          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-server-information-retrieval-lab-301475)         |
-|      33 | 📖 Linux Deploy LNMP                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-deploy-lnmp-7787)                                |
-|      34 | 📖 Extracting Link Information From Text (Lab)       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-extracting-link-information-from-text-lab-301471)      |
-|      35 | 📖 Git Config Management                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-git-config-management-8715)                              |
-|      36 | 📖 File and Disk Usage                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-file-and-disk-usage-38)                                |
-|      37 | 📖 Linux cp Command: File Copying                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-cp-command-file-copying-209744)                  |
-|      38 | 📖 Get Help on Linux                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-get-help-on-linux-18000)                               |
-|      39 | 📖 Linux rm Command: File Removing                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-rm-command-file-removing-209741)                 |
-|      40 | 📖 Permissions of Files                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-permissions-of-files-270252)                           |
-|      41 | 📖 Environment Variable and Find Files               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-environment-variable-and-find-files-17996)             |
-|      42 | 📖 Connect to Remote                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-connect-to-remote-34)                                  |
-|      43 | 📖 Introducing Grep, Sed, and Awk Commands           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-introducing-grep-sed-and-awk-commands-18003)           |
-|      44 | 📖 Linux mv Command: File Moving/Renaming            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-mv-command-file-moving-renaming-209743)          |
-|      45 | 📖 Set Up Scheduled Tasks                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-set-up-scheduled-tasks-47)                             |
-|      46 | 📖 Background Job Management in Linux                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-background-job-management-in-linux-43)                 |
-|      47 | 📖 Network Information and Test                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-network-information-and-test-45)                       |
-|      48 | 📖 User Group Management                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-user-group-management-50)                              |
-|      49 | 📖 Simple Text Processing                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-simple-text-processing-18004)                          |
-|      50 | 📖 Data Stream Redirection                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-data-stream-redirection-17995)                         |
-|      51 | 📖 Linux ls Command: Content Listing                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-ls-command-content-listing-219205)               |
-|      52 | 📖 Your First Linux Lab                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-your-first-linux-lab-270253)                           |
-|      53 | 📖 Initialize Git Project (Lab)                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-initialize-git-project-lab-1507)                       |
-|      54 | 📖 Basic Linux File Operations                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-basic-linux-file-operations-42)                        |
-|      55 | 📖 Terminate Processes with kill, killall, and pkill | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-terminate-processes-with-kill-killall-and-pkill-44)    |
-|      56 | 📖 Linux Logical Commands and Redirection            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-logical-commands-and-redirection-48)             |
-|      57 | 📖 Introduction to Linux                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-introduction-to-linux-18001)                           |
-|      58 | 📖 Samba File Sharing on Linux (Lab)                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-samba-file-sharing-on-linux-lab-301491)                |
-|      59 | 📖 Command Execution Sequence Control and Pipeline   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-command-execution-sequence-control-and-pipeline-17994) |
-|      60 | 📖 User Account Management                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-user-account-management-49)                            |
-|      61 | 📖 Linux User Group and File Permissions             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-user-group-and-file-permissions-18002)           |
-|      62 | 📖 File Packing and Compression                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-file-packing-and-compression-17998)                    |
+|      15 | 📖 Command-Line File Downloading Tools               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-command-line-file-downloading-tools-37)                |
+|      16 | 📖 Discover Linux System Information                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-discover-linux-system-information-36)                  |
+|      17 | 📖 Linux cd Command: Directory Changing              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-cd-command-directory-changing-209733)            |
+|      18 | 📖 Linux mkdir Command: Directory Creating           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-mkdir-command-directory-creating-209739)         |
+|      19 | 📖 Secure File Transfer Basics                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-secure-file-transfer-basics-40)                        |
+|      20 | 📖 File System and Disk Management                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-file-system-and-disk-management-17999)                 |
+|      21 | 📖 Linux Deploy LNMP                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-deploy-lnmp-7787)                                |
+|      22 | 📖 Git Config Management                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-git-config-management-8715)                              |
+|      23 | 📖 File and Disk Usage                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-file-and-disk-usage-38)                                |
+|      24 | 📖 Linux cp Command: File Copying                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-cp-command-file-copying-209744)                  |
+|      25 | 📖 Get Help on Linux                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-get-help-on-linux-18000)                               |
+|      26 | 📖 Linux rm Command: File Removing                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-rm-command-file-removing-209741)                 |
+|      27 | 📖 Permissions of Files                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-permissions-of-files-270252)                           |
+|      28 | 📖 Environment Variable and Find Files               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-environment-variable-and-find-files-17996)             |
+|      29 | 📖 Connect to Remote                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-connect-to-remote-34)                                  |
+|      30 | 📖 Introducing Grep, Sed, and Awk Commands           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-introducing-grep-sed-and-awk-commands-18003)           |
+|      31 | 📖 Linux mv Command: File Moving/Renaming            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-mv-command-file-moving-renaming-209743)          |
+|      32 | 📖 Set Up Scheduled Tasks                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-set-up-scheduled-tasks-47)                             |
+|      33 | 📖 Background Job Management in Linux                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-background-job-management-in-linux-43)                 |
+|      34 | 📖 Network Information and Test                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-network-information-and-test-45)                       |
+|      35 | 📖 User Group Management                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-user-group-management-50)                              |
+|      36 | 📖 Simple Text Processing                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/shell-simple-text-processing-18004)                          |
+|      37 | 📖 Data Stream Redirection                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-data-stream-redirection-17995)                         |
+|      38 | 📖 Linux ls Command: Content Listing                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-ls-command-content-listing-219205)               |
+|      39 | 📖 Your First Linux Lab                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-your-first-linux-lab-270253)                           |
+|      40 | 📖 Initialize Git Project                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-initialize-git-project-1507)                           |
+|      41 | 📖 Basic Linux File Operations                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-basic-linux-file-operations-42)                        |
+|      42 | 📖 Terminate Processes with kill, killall, and pkill | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-terminate-processes-with-kill-killall-and-pkill-44)    |
+|      43 | 📖 Linux Logical Commands and Redirection            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-logical-commands-and-redirection-48)             |
+|      44 | 📖 Introduction to Linux                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-introduction-to-linux-18001)                           |
+|      45 | 📖 Command Execution Sequence Control and Pipeline   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-command-execution-sequence-control-and-pipeline-17994) |
+|      46 | 📖 User Account Management                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-user-account-management-49)                            |
+|      47 | 📖 Linux User Group and File Permissions             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-linux-user-group-and-file-permissions-18002)           |
+|      48 | 📖 File Packing and Compression                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-file-packing-and-compression-17998)                    |
 
 ## More Free Tutorials
 

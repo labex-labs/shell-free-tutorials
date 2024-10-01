@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
 </div>
 
-Shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation.
+Shell scripting is essential for system administration and automation. This Skill Tree provides a systematic approach to mastering command-line interfaces and shell programming. Designed for beginners, it offers a clear roadmap to understand Unix/Linux shells and scripting languages. Hands-on, non-video courses and practical exercises in an interactive command-line playground ensure you develop real-world shell scripting skills.
 
 |   Index | Name                                                                                                                              | Difficulty   | Tutorial Link                                                                               |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------|
@@ -53,15 +53,15 @@ Shell is a user interface for access to an operating system's services. In gener
 ## More Free Tutorials
 
 - [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
 - [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 - [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
 - [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
 - [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
 - [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
